@@ -1,4 +1,4 @@
-<h1 align="center">Hola, I'm Abheer Mehrotra👋</h1> 
+<h1 align="center">Guten Morgen, I'm Abheer Mehrotra👋</h1> 
 
 <div align = "center">
  
@@ -31,19 +31,19 @@
   
   ### Trophies
 
-  [![Abheer's Trophy](https://github-profile-trophy.vercel.app/?username=abheer18&row=1&column=7&margin-w=5&no-frame=true&theme=dracula)](https://github-profile-trophy.vercel.app/?username=sanchitbajaj02&row=1&column=7&margin-w=5&no-frame=true&theme=dracula)
+  [![abheer18's Trophy](https://github-profile-trophy.vercel.app/?username=abheer18&row=1&column=7&margin-w=5&no-frame=true&theme=dracula)](https://github-profile-trophy.vercel.app/?username=sanchitbajaj02&row=1&column=7&margin-w=5&no-frame=true&theme=dracula)
 
   ### Github Stats
 
-  [![Abheer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kunal9155&show_icons=true&count_private=true&include_all_commits=true&theme=dracula)](https://github.com/Sanchitbajaj02?tab=repositories)
+  [![abheer18's GitHub stats](https://github-readme-stats.vercel.app/api?username=abheer185&show_icons=true&count_private=true&include_all_commits=true&theme=dracula)](https://github.com/Sanchitbajaj02?tab=repositories)
 
   ### Top Languages
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal9155&count_private=true&include_all_commits=true&layout=compact&theme=dracula)](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitbajaj02&count_private=true&include_all_commits=true&layout=compact&theme=dracula)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abheer18&count_private=true&include_all_commits=true&layout=compact&theme=dracula)](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitbajaj02&count_private=true&include_all_commits=true&layout=compact&theme=dracula)
 
   ### Streak
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kunal9155&theme=dracula)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abheer18&theme=dracula)](https://git.io/streak-stats)
 
   ### Graph
   [![Kunal's github activity graph](https://activity-graph.herokuapp.com/graph?username=Kunal9155&theme=dracula)](https://activity-graph.herokuapp.com/graph?username=sanchitbajaj02&theme=dracula)
