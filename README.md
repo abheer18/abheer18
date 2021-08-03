@@ -5,7 +5,7 @@
 [![Portfolio](https://img.shields.io/website?color=blue&label=Portfolio&style=flat&up_message=Online&url=https://www.facebook.com)](https://abheer18.github.io/MY_portfolio/)
 ![Visitor Count](https://komarev.com/ghpvc/?username=abheer18&color=blue&logo=flat)
 [![Linkedin](https://img.shields.io/badge/abheer18-black?style=flat&logo=Linkedin&logoColor=blue&link=https://in.linkedin.com/in/abheer-mehrotra-684a90201)](https://in.linkedin.com/in/abheer-mehrotra-684a90201)
-[![Instagram](https://img.shields.io/badge/Kunal9155-black?style=flat&logo=Instagram&logoColor=pink&link=https:https:https:/www.instagram.com/sbajaj_02/)](https://www.instagram.com/abheer.mehrotra18/?hl=en)
+[![Instagram](https://img.shields.io/badge/abheer18-black?style=flat&logo=Instagram&logoColor=pink&link=https:https:https:/www.instagram.com/sbajaj_02/)](https://www.instagram.com/abheer.mehrotra18/?hl=en)
 </div>
 
 <p align="center" ><img 
