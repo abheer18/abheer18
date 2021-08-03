@@ -35,7 +35,7 @@
 
   ### Github Stats
 
-  [![abheer18's GitHub stats](https://github-readme-stats.vercel.app/api?username=abheer185&show_icons=true&count_private=true&include_all_commits=true&theme=dracula)](https://github.com/Sanchitbajaj02?tab=repositories)
+  [![abheer18's GitHub stats](https://github-readme-stats.vercel.app/api?username=abheer18&show_icons=true&count_private=true&include_all_commits=true&theme=dracula)](https://github.com/Sanchitbajaj02?tab=repositories)
 
   ### Top Languages
 
@@ -46,6 +46,6 @@
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abheer18&theme=dracula)](https://git.io/streak-stats)
 
   ### Graph
-  [![Kunal's github activity graph](https://activity-graph.herokuapp.com/graph?username=Kunal9155&theme=dracula)](https://activity-graph.herokuapp.com/graph?username=sanchitbajaj02&theme=dracula)
+  [![abheer18's github activity graph](https://activity-graph.herokuapp.com/graph?username=abheer18&theme=dracula)](https://activity-graph.herokuapp.com/graph?username=sanchitbajaj02&theme=dracula)
 
 </div>
