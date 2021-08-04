@@ -1,4 +1,4 @@
-<h1 align="center">Guten Morgen, I'm Abheer Mehrotra👋</h1> 
+<h1 align="center">Hello, I'm Abheer Mehrotra👋</h1> 
 
 <div align = "center">
  
@@ -47,5 +47,5 @@
 
   ### Graph
   [![abheer18's github activity graph](https://activity-graph.herokuapp.com/graph?username=abheer18&theme=dracula)](https://activity-graph.herokuapp.com/graph?username=sanchitbajaj02&theme=dracula)
-
+ <h2>KEEP SMILING 😊</h2>
 </div>
