@@ -9,7 +9,7 @@
 </div>
 
 <p align="center" ><img 
- src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%"/></p>
+ src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F449304500311811599%2F&psig=AOvVaw3McNIcguHgH_l1JdJpE4z9&ust=1628364474315000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLCKtsWQnfICFQAAAAAdAAAAABAe" width="40%"/></p>
 <br/>
 
 - 🔭 I’m currently programming languages and have completed many of them.
