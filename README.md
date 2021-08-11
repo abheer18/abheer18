@@ -46,6 +46,6 @@
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abheer18&theme=dracula)](https://git.io/streak-stats)
 
   ### Graph
-  [![abheer18's github activity graph](https://activity-graph.herokuapp.com/graph?username=abheer18&theme=dracula)](https://activity-graph.herokuapp.com/graph?username=sanchitbajaj02&theme=dracula)
+  [![abheer18's github activity graph](https://activity-graph.herokuapp.com/graph?username=abheer18&theme=dracula)](https://activity-graph.herokuapp.com/graph?username=abheer18&theme=dracula)
  <h2>KEEP SMILING 😊</h2>
 </div>
