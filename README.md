@@ -12,9 +12,9 @@
  src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%"/></p>
 <br/>
 
-- 🔭 I’m currently programming languages and have completed many of them.
-- 🌱 I’m currently learning  Java Script and App Development.
-- 👯 I’m looking to collaborate on Frontend projects
+- 🔭 I’m currently studying about programming languages and have completed many of them.
+- 🌱 I’m currently learning  Java Web/App Development, Cybersecurity.
+- 👯 I’m looking to collaborate on Frontend projects.
 - 📫 How to reach me: <a href="">-abheer.mehrotra2001@gmail.com</a>
 
 
