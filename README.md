@@ -12,10 +12,12 @@
  src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%"/></p>
 <br/>
 
-- 🔭 I’m currently studying about programming languages and have completed many of them.
-- 🌱 I’m currently learning  Java Web/App Development, Cybersecurity.
-- 👯 I’m looking to collaborate on Frontend projects.
-- 📫 How to reach me: <a href="">-abheer.mehrotra2001@gmail.com</a>
+- 🔭 I’m doing coding everyday and learning about advance data structure and algorithms.
+- 🌱 I’m indulged in development and making various projects.
+- 👯 I would love to contribute in your projects.
+- 🎈  I am also doing web development and going to start app development.
+- ⭐  Exploring domains like Cyber security, IOT, ML.
+- 📫 How to reach me: <a href="abheer.mehrotra2001@gmail.com">-abheer.mehrotra2001@gmail.com</a>
 
 
 ## Working Stack:
