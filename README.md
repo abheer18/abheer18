@@ -16,7 +16,7 @@
 - 🌱 I’m indulged in development and making various projects.
 - 👯 I would love to contribute in your projects.
 - 🎈  I am also doing web development and going to start app development.
-- ⭐  Exploring domains like Cyber security, IOT, ML.
+- ⭐  Exploring domains like Cyber security, Android Development.
 - 📫 How to reach me: <a href="abheer.mehrotra2001@gmail.com">-abheer.mehrotra2001@gmail.com</a>
 
 
