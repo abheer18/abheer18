@@ -1,36 +1,11 @@
 <h1 align="center">Hello, I'm Abheer Mehrotra👋</h1> 
 
-<div align = "center">
- 
-[![Portfolio](https://img.shields.io/website?color=blue&label=Portfolio&style=flat&up_message=Online&url=https://www.facebook.com)](https://abheer18.github.io/MY_portfolio/)
-![Visitor Count](https://komarev.com/ghpvc/?username=abheer18&color=blue&logo=flat)
-[![Linkedin](https://img.shields.io/badge/abheer18-black?style=flat&logo=Linkedin&logoColor=blue&link=https://in.linkedin.com/in/abheer-mehrotra-684a90201)](https://in.linkedin.com/in/abheer-mehrotra-684a90201)
-[![Instagram](https://img.shields.io/badge/abheer18-black?style=flat&logo=Instagram&logoColor=pink&link=https:https:https:/www.instagram.com/sbajaj_02/)](https://www.instagram.com/abheer.mehrotra18/?hl=en)
-</div>
 
-<p align="center" ><img 
- src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%"/></p>
-<br/>
-
-- 🔭 I’m doing coding everyday and learning about advance data structure and algorithms.
-- 🌱 I’m indulged in development and making various projects.
-- 👯 I would love to contribute in your projects.
-- 🎈  I am also doing web development and going to start app development.
-- ⭐  Exploring domains like Cyber security, Android Development.
-- 📫 How to reach me: <a href="abheer.mehrotra2001@gmail.com">-abheer.mehrotra2001@gmail.com</a>
-
-
-## Working Stack:
-
-
-   <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="java" width="40" height="40"/ 
-   
-
-<br/>
-
-## Statistics
-
+ [![abheer18's GitHub | Stats](https://stats.quine.sh/abheer18/github?theme=dark)](https://quine.sh)
 <div align="center">
+
+ 
+## Statistics
   
   ### Trophies
 
@@ -38,17 +13,13 @@
 
   ### Github Stats
 
-  [![abheer18's GitHub stats](https://github-readme-stats.vercel.app/api?username=abheer18&show_icons=true&count_private=true&include_all_commits=true&theme=dracula)](https://github.com/Sanchitbajaj02?tab=repositories)
-
-  ### Top Languages
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abheer18&count_private=true&include_all_commits=true&layout=compact&theme=dracula)](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitbajaj02&count_private=true&include_all_commits=true&layout=compact&theme=dracula)
-
+  [![abheer18's GitHub stats](https://github-readme-stats.vercel.app/api?username=abheer18&show_icons=true&count_private=true&include_all_commits=true&theme=dark)](https://github.com/Sanchitbajaj02?tab=repositories)
+[![abheer18's GitHub | Languages Over Time](https://stats.quine.sh/abheer18/languages-over-time?theme=dark)](https://quine.sh)
+  
   ### Streak
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abheer18&theme=dracula)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abheer18&theme=dark)](https://git.io/streak-stats)
 
-  ### Graph
-  [![abheer18's github activity graph](https://activity-graph.herokuapp.com/graph?username=abheer18&theme=dracula)](https://activity-graph.herokuapp.com/graph?username=abheer18&theme=dracula)
- <h2>KEEP SMILING 😊</h2>
+
+ <h2>Inovation is the best Creation 🎓</h2>
 </div>
